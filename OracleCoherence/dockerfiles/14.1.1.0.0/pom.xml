@@ -32,7 +32,7 @@
     <maven.assembly.plugin.version>3.0.0</maven.assembly.plugin.version>
 
     <!-- library dependency versions -->
-    <jackson.version>2.10.2</jackson.version>
+    <jackson.version>2.13.0</jackson.version>
     <jackson.databind.version>${jackson.version}</jackson.databind.version>
     <jakarta.ws.rs.version>2.1.5</jakarta.ws.rs.version>
     <jersey.version>2.29</jersey.version>
